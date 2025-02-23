@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 個人簡歷 Home
     link: /
   - title: 興趣愛好 Hobby
     link: /research.html
-  - title: 經歷 Publications
+  - title: 教育背景 Experiens
     link: /publications.html
