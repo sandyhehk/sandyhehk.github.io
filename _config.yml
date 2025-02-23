@@ -1,4 +1,4 @@
-name: 肖航课题组  Xiao Research Group
+name: 何頌  HE Song
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -36,7 +36,7 @@ collections:
 navigation:
   - title: 主页 Home
     link: /
-  - title: 科研项目 Research
+  - title: 興趣愛好 Hobby
     link: /research.html
-  - title: 论文 Publications
+  - title: 經歷 Publications
     link: /publications.html
